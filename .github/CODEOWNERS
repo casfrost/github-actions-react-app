@@ -1,0 +1,4 @@
+*  @abcafr
+*.js  @abcafr
+*.yml  @abcafrtest
+/public/  @abcafr
